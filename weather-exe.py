@@ -20,7 +20,7 @@ for cities in cities_names_list[:101]:
     
     weather_raw_data = requests.get(weather_url).json()
 
-    if weather_raw_data == {'cod': '404', 'message': 'city not found'}:
+    if weather_raw_data['cod'] == '404':
         continue
 
     weather_raw_df = pd.json_normalize(weather_raw_data, record_path='weather', meta=[['name'], ['main', 'temp_min'], ['main', 'temp_max']])
