@@ -24,3 +24,9 @@ jobs:
         run: python week9_etl/run_exe.py
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+      - name: Push CSV File
+        run: |
+          git config user.name "Meji"
+          git config user.email "sawmejisan@gmail.com"
+          git add ./covid_cities_weather.csv
+          git commit -m "Push CSV file" && git push || true

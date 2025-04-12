@@ -89,3 +89,9 @@ def transform()-> pd.DataFrame:
        
         return weather_city_covid_df
 
+def load(load_df:pd.DataFrame):
+    try:
+        load_df.to_csv("covid_cities_weather.csv", index=False)
+        print(f"Data successfully loaded to covid_cities_weather.csv")
+    except Exception as e:
+        print(f"Error while saving CSV: {e}")
