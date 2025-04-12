@@ -18,5 +18,7 @@ jobs:
           cache: "pip"
       - name: Install libraries
         run: pip install -r requirements.txt
+      - name: Print Weather API Key
+        run: echo ${{ secrets.WEATHER_API_KEY }}
       - name: Run Python file as testing
-        run: python hello.py
+        run: python week9_etl/run_exe.py
