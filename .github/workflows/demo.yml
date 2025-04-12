@@ -22,3 +22,5 @@ jobs:
         run: echo ${{ secrets.WEATHER_API_KEY }}
       - name: Run Python file as testing
         run: python week9_etl/run_exe.py
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
