@@ -2,7 +2,7 @@ name: Demo MMDT
 on:
   push:
     branches:
-      - main
+      - etl-exe
   workflow_dispatch:
 
 jobs:
