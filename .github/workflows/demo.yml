@@ -19,4 +19,4 @@ jobs:
       - name: Install libraries
         run: pip install -r requirements.txt
       - name: Run Python file as testing
-        run: python week9_etl/run_exe.py
+        run: python hello.py
