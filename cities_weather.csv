@@ -1,94 +1,102 @@
 Name,Condition,Temperature Minimum,Temperature Maximum
-Ashkāsham,broken clouds,275.28,275.28
-Fayzabad,overcast clouds,290.98,290.98
-Jurm,overcast clouds,287.12,287.12
-Khandūd,few clouds,274.61,274.61
-Ghormach,scattered clouds,301.04,301.04
-Qala i Naw,few clouds,304.12,304.12
-Baghlan,broken clouds,301.1,301.1
-Ḩukūmatī Dahanah-ye Ghōrī,broken clouds,299.24,299.24
-Nahrin,overcast clouds,297.72,297.72
-Pul-e Khumrī,broken clouds,300.89,300.89
-Balkh,overcast clouds,300.12,300.12
-Dowlatābād,broken clouds,290.97,290.97
-Khulm,overcast clouds,299.11,299.11
-Lab-Sar,overcast clouds,300.33,300.33
-Mazari Sharif,overcast clouds,300.22,300.22
-Qarchī Gak,overcast clouds,300.53,300.53
-Bāmyān,broken clouds,284.25,284.25
-Panjāb,clear sky,275.35,275.35
-Nīlī,clear sky,289.6,289.6
-Farah,clear sky,301.95,301.95
-Andkhōy,broken clouds,302.07,302.07
-Maymana,scattered clouds,300.59,300.59
-Ghazni,broken clouds,290.31,290.31
-Fayrōz Kōh,clear sky,289.22,289.22
-Shahrak,clear sky,290.09,290.09
-‘Alāqahdārī Dīshū,few clouds,306.77,306.77
-Gereshk,scattered clouds,302.36,302.36
-Lashkar Gah,scattered clouds,303.26,303.26
-Markaz-e Ḩukūmat-e Darwēshān,broken clouds,304.21,304.21
-Sangīn,scattered clouds,301.52,301.52
-Chahār Burj,clear sky,303.46,303.46
-Ghōriyān,few clouds,303.34,303.34
-Herat Province,clear sky,301.96,301.96
-Kafir Qala,broken clouds,303.77,303.77
-Karukh,clear sky,300.05,300.05
-Kuhsān,broken clouds,303.86,303.86
-Kushk,clear sky,301.97,301.97
-Qarah Bāgh,few clouds,301.91,301.91
-Shīnḏanḏ,clear sky,301.67,301.67
-Tīr Pul,scattered clouds,303.52,303.52
-Zindah Jān,scattered clouds,303.73,303.73
-Āqchah,broken clouds,300.84,300.84
-Darzāb,scattered clouds,298.07,298.07
-Qarqīn,overcast clouds,303.56,303.56
-Shibirghān,broken clouds,301.25,301.25
-Kabul,overcast clouds,291.94,291.94
-Mīr Bachah Kōṯ,overcast clouds,292.68,292.68
-Paghmān,overcast clouds,286.29,286.29
-Kandahar,broken clouds,299.96,299.96
-Khōst,overcast clouds,297.13,297.13
-Asadābād,broken clouds,284.91,284.91
-Āsmār,broken clouds,292.46,292.46
-Dasht-e Archī,overcast clouds,299.67,299.67
-Imām Şāḩib,overcast clouds,300.14,300.14
-Khanabad,overcast clouds,300.13,300.13
-Kunduz Province,overcast clouds,299.97,299.97
-Qarāwul,overcast clouds,300.3,300.3
-Mehtar Lām,overcast clouds,298.79,298.79
-Baraki Barak,overcast clouds,291.01,291.01
-Ḩukūmatī Azrah,overcast clouds,283.39,283.39
-Pul-e ‘Alam,overcast clouds,290.34,290.34
-Bāsawul,overcast clouds,301.41,301.41
-Jalalabad,overcast clouds,300.57,300.57
-Markaz-e Woluswalī-ye Āchīn,overcast clouds,296.87,296.87
-Khāsh,clear sky,300.91,300.91
-Mīrābād,clear sky,307.49,307.49
-Rūdbār,clear sky,307.51,307.51
-Zaranj,clear sky,306.85,306.85
-Pārūn,broken clouds,279.58,279.58
-Gardez,overcast clouds,289.67,289.67
-Zaṟah Sharan,overcast clouds,291.12,291.12
-Zarghūn Shahr,overcast clouds,290.56,290.56
-Bāzārak,overcast clouds,284.82,284.82
-Charikar,overcast clouds,293.52,293.52
-Jabal Saraj,overcast clouds,292.44,292.44
-Aībak,broken clouds,299.65,299.65
-Chīras,few clouds,282.01,282.01
-Larkird,scattered clouds,289.59,289.59
-Qal‘ah-ye Shahr,few clouds,290.69,290.69
-Sang-e Chārak,broken clouds,296.58,296.58
-Sar-e Pul,scattered clouds,296.41,296.41
-Tagāw-Bāy,few clouds,294.14,294.14
-Tukzār,overcast clouds,298.6,298.6
-Ārt Khwājah,overcast clouds,299.26,299.26
-Taloqan,overcast clouds,297.93,297.93
-Tarinkot,scattered clouds,297.25,297.25
-Oruzgan,few clouds,295.05,295.05
-Qalāt,overcast clouds,295.63,295.63
-Banaj,overcast clouds,288.94,288.94
-Berat,overcast clouds,288.84,288.84
-Çorovodë,overcast clouds,286.35,286.35
-Kuçovë,overcast clouds,289.32,289.32
-Poliçan,overcast clouds,288.43,288.43
+Ashkāsham,broken clouds,271.47,271.47
+Fayzabad,overcast clouds,278.51,278.51
+Jurm,overcast clouds,277.79,277.79
+Khandūd,overcast clouds,270.81,270.81
+Zīrakī,snow,273.74,273.74
+Khandūd,snow,258.29,258.29
+Ghormach,overcast clouds,279.35,279.35
+Qala i Naw,overcast clouds,276.04,276.04
+Baghlan,overcast clouds,280.54,280.54
+Ḩukūmatī Dahanah-ye Ghōrī,overcast clouds,278.94,278.94
+Nahrin,overcast clouds,278.14,278.14
+Pul-e Khumrī,overcast clouds,278.95,278.95
+Balkh,overcast clouds,279.09,279.09
+Dowlatābād,overcast clouds,281.14,281.14
+Khulm,overcast clouds,280.57,280.57
+Lab-Sar,overcast clouds,275.86,275.86
+Mazari Sharif,overcast clouds,279.42,279.42
+Qarchī Gak,overcast clouds,281.24,281.24
+Bāmyān,clear sky,275.41,275.41
+Panjāb,clear sky,267.02,267.02
+Nīlī,clear sky,278.3,278.3
+Farah,few clouds,286.6,286.6
+Andkhōy,overcast clouds,284.35,284.35
+Maymana,overcast clouds,277.28,277.28
+Jam‘eh ‘Ulyā,broken clouds,281.95,281.95
+Fayrōz Kōh,overcast clouds,276,276
+Shahrak,scattered clouds,275.8,275.8
+‘Alāqahdārī Dīshū,clear sky,291.19,291.19
+Gereshk,clear sky,292.28,292.28
+Lashkar Gah,clear sky,291.97,291.97
+Markaz-e Ḩukūmat-e Darwēshān,clear sky,292.13,292.13
+Sangīn,clear sky,292.12,292.12
+Chahār Burj,overcast clouds,278.37,278.37
+Ghōriyān,overcast clouds,276.95,276.95
+Herat,broken clouds,276.61,276.61
+Kafir Qala,scattered clouds,277.71,277.71
+Karukh,overcast clouds,274.07,274.07
+Kuhsān,broken clouds,277.19,277.19
+Kushk,clear sky,278.08,278.08
+Qarah Bāgh,light rain,275.73,275.73
+Shīnḏanḏ,scattered clouds,280.38,280.38
+Tīr Pul,broken clouds,276.82,276.82
+Zindah Jān,overcast clouds,277.64,277.64
+Āqchah,overcast clouds,281.8,281.8
+Darzāb,light snow,273.7,273.7
+Qarqīn,overcast clouds,285.11,285.11
+Shibirghān,overcast clouds,281.22,281.22
+Kabul,overcast clouds,281.45,281.45
+Mīr Bachah Kōṯ,overcast clouds,281.82,281.82
+Paghmān,overcast clouds,276.38,276.38
+Kandahar,clear sky,292.36,292.36
+Ibrāhīm Khān,overcast clouds,282.52,282.52
+Khōst,broken clouds,288.16,288.16
+Asadābād,overcast clouds,290.53,290.53
+Āsmār,overcast clouds,284.35,284.35
+Dasht-e Archī,light rain,280.7,280.7
+Imām Şāḩib,light rain,280.99,280.99
+Khanabad,overcast clouds,280.09,280.09
+Kunduz,overcast clouds,280.72,280.72
+Qarāwul,light rain,281.45,281.45
+Mehtar Lām,overcast clouds,290.15,290.15
+Baraki Barak,scattered clouds,283.4,283.4
+Ḩukūmatī Azrah,light snow,274.93,274.93
+Pul-e ‘Alam,scattered clouds,283.02,283.02
+Bāsawul,overcast clouds,293.93,293.93
+Jalalabad,broken clouds,291.94,291.94
+Markaz-e Woluswalī-ye Āchīn,overcast clouds,289.34,289.34
+Khāsh,clear sky,290.38,290.38
+Mīrābād,scattered clouds,286.61,286.61
+Rūdbār,clear sky,290.22,290.22
+Zaranj,clear sky,285.55,285.55
+Pārūn,snow,273.16,273.16
+Gardez,overcast clouds,278.65,278.65
+‘Alāqahdārī Saṟōbī,broken clouds,280.95,280.95
+Zaṟah Sharan,broken clouds,283.62,283.62
+Zarghūn Shahr,broken clouds,283.98,283.98
+Bāzārak,light rain,277.12,277.12
+Charikar,overcast clouds,281.92,281.92
+Jabal Saraj,overcast clouds,281.43,281.43
+Aībak,overcast clouds,278.98,278.98
+Chīras,snow,268.4,268.4
+Larkird,overcast clouds,273.4,273.4
+Qal‘ah-ye Shahr,snow,270.68,270.68
+Sang-e Chārak,snow,273.55,273.55
+Sar-e Pul,overcast clouds,277.95,277.95
+Tagāw-Bāy,light snow,272.71,272.71
+Tukzār,light snow,273.26,273.26
+Ārt Khwājah,overcast clouds,280.79,280.79
+Taloqan,overcast clouds,278.66,278.66
+Tarinkot,clear sky,289.07,289.07
+Uruzgān,clear sky,284,284
+Qalāt,clear sky,288.58,288.58
+Kuçovë,moderate rain,286.34,286.34
+Berat,moderate rain,285.49,285.49
+Kuçovë,moderate rain,286.17,286.17
+Poliçan,moderate rain,282.19,282.19
+Çorovodë,moderate rain,279.02,279.02
+Berat,moderate rain,285.49,285.49
+Çorovodë,moderate rain,282.7,282.7
+Kuçovë,moderate rain,286.6,286.6
+Poliçan,moderate rain,284.69,284.69

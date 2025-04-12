@@ -5,6 +5,8 @@ covid19_url = "https://raw.githubusercontent.com/owid/covid-19-data/refs/heads/m
 
 cities_url = "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/cities.json"
 
+cities_url = "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bcities.json"
+
 countries_raw_data = requests.get(covid19_url).json()
 
 cities_raw_data = requests.get(cities_url).json()
